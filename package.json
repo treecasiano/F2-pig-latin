@@ -1,0 +1,22 @@
+{
+  "name": "f2-pig-latin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treecasiano/F2-pig-latin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/treecasiano/F2-pig-latin/issues"
+  },
+  "homepage": "https://github.com/treecasiano/F2-pig-latin#readme",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
