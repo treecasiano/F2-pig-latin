@@ -1,0 +1,37 @@
+body {
+  font-size: 15px;
+  font-family: sans-serif;
+  color: gray;
+}
+
+h1 {
+  color: pink;
+}
+
+main {
+  width: 400px;
+  margin: auto;
+}
+
+#to-translate {
+  width: 400px;
+  height: 200px;
+  box-sizing: border-box;
+  border: 2px dotted pink;
+  background: whitesmoke;
+}
+
+.text-input {
+  background-color: pink;
+  color: gray;
+  border: none;
+  padding: 10px;
+  border-radius: 15px;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+#translated {
+  color: pink;
+  font-weight: bold;
+}
