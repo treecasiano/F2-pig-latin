@@ -1,37 +1,48 @@
 body {
-  font-size: 15px;
+  font-size: 12px;
   font-family: sans-serif;
   color: gray;
 }
 
 h1 {
-  color: pink;
+  color: #FF6919;
+  text-align: center;
+}
+
+h2 {
+  text-shadow: 1px 1px lightgray;
 }
 
 main {
-  width: 400px;
+  width: 500px;
   margin: auto;
 }
 
 #to-translate {
   width: 400px;
-  height: 200px;
+  height: 100px;
   box-sizing: border-box;
-  border: 2px dotted pink;
+  border: 2px dotted darkgray;
   background: whitesmoke;
 }
 
 .text-input {
-  background-color: pink;
-  color: gray;
+  background-color: #FF6919;
+  color: white;
   border: none;
   padding: 10px;
-  border-radius: 15px;
+  border-radius: 10px;
   margin-top: 10px;
-  font-size: 20px;
+  font-size: 15px;
 }
 
 #translated {
-  color: pink;
+  color: gray;
   font-weight: bold;
+}
+
+hr {
+  color: gray;
+  border-width: 5px;
+  margin: 40px 0 20px 0;
 }

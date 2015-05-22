@@ -1,7 +1,8 @@
 
+
 $('form').on( 'submit', function() {
   var request = {
-     text: $( '#to-translate' ).val()
+     text: $( '#to-translate' ).val(),
   };
 
 
