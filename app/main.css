@@ -18,9 +18,9 @@ main {
   margin: auto;
 }
 
-#to-translate {
+#to-translate, #to-translate-farfallino {
   width: 400px;
-  height: 100px;
+  height: 80px;
   box-sizing: border-box;
   border: 2px dotted darkgray;
   background: whitesmoke;
@@ -33,10 +33,11 @@ main {
   padding: 10px;
   border-radius: 10px;
   margin-top: 10px;
-  font-size: 15px;
+  font-size: 10px;
+  display: block;
 }
 
-#translated {
+#translated, #translated-farfallino {
   color: gray;
   font-weight: bold;
 }
