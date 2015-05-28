@@ -2,6 +2,8 @@ body {
   font-size: 12px;
   font-family: sans-serif;
   color: gray;
+  margin: auto;
+  padding: 10px;
 }
 
 h1 {
@@ -47,3 +49,13 @@ hr {
   border-width: 5px;
   margin: 40px 0 20px 0;
 }
+
+a {
+  color: #FF6919;
+}
+
+a:hover {
+  color: turquoise;
+}
+
+
